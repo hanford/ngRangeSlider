@@ -1,8 +1,8 @@
 {
-  "name": "ng-range-slider",
+  "name": "ng-range-slider-commonjs",
   "version": "0.2.0",
   "description": "Multi-handle range slider utilising the native HTML5 input range elements.",
-  "main": "dist/ng-range-slider.min.js",
+  "main": "dist/ng-range-slider.js",
   "scripts": {
     "test": "gulp test",
     "start": "node example/server/default.js"
